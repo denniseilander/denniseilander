@@ -4,8 +4,10 @@
 
 Twitter: [@denniseilander_](https://twitter.com/denniseilander_)
 
-### Raycast Extensions 🚀
-- [Laravel Valet](https://www.raycast.com/denniseilander/laravel-valet) - Effortless management of your local Valet sites
+## Raycast Extensions 🚀
+
+- [Laravel Valet](https://www.raycast.com/denniseilander/laravel-valet) - _Effortless management of your local Valet sites_ 
+
 
 <!--
 **denniseilander/denniseilander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
