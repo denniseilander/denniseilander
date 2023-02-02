@@ -6,7 +6,7 @@ Twitter: [@denniseilander_](https://twitter.com/denniseilander_)
 
 ## Raycast Extensions 🚀
 
-- [Laravel Valet](https://www.raycast.com/denniseilander/laravel-valet) - _Effortless management of your local Valet sites_ 
+- ✨[Laravel Valet](https://www.raycast.com/denniseilander/laravel-valet) - _Effortless management of your local Valet sites_ ~ [:octocat: Local Repository](https://github.com/denniseilander/raycast-laravel-valet)
 
 
 <!--
