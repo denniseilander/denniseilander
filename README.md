@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Dennis' GitHub stats](https://github-readme-stats.vercel.app/api?username=denniseilander&show_icons=true)](https://github.com/denniseilander/denniseilander)
-
 Twitter: [@denniseilander_](https://twitter.com/denniseilander_)
 
 ## Raycast Extensions 🚀
